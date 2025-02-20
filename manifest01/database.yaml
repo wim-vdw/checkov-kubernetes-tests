@@ -1,8 +1,0 @@
-apiVersion: wim-vdw.github.io/v1alpha1
-kind: MyCustomDatabase
-metadata:
-  name: my-database
-spec:
-  highAvailability: true
-  region: WestEurope
-  databaseSizeGb: 25
