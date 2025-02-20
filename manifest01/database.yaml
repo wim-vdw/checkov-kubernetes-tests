@@ -5,4 +5,4 @@ metadata:
 spec:
   highAvailability: true
   region: WestEurope
-  databaseSize: 100
+  databaseSizeGb: 25
