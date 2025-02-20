@@ -3,6 +3,6 @@ kind: MyCustomDatabase
 metadata:
   name: my-database
 spec:
-  highAvailability: true
+  highAvailability: false
   region: WestEurope
   databaseSize: 100
