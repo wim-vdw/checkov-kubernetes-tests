@@ -1,4 +1,4 @@
-apiVersion: wim-vdw.github.io/v1alpha1
+apiVersion: wim-vdw.io/v1alpha1
 kind: MyCustomDatabase
 metadata:
   name: my-database
