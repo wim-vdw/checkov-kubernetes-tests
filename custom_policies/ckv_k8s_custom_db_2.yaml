@@ -1,5 +1,5 @@
 metadata:
-  name: "Ensure high availability is active in MyCustomDatabase CRD"
+  name: "Ensure high availability is active in MyCustomDatabase"
   id: "CKV_K8S_CUSTOM_DB_2"
   category: "KUBERNETES"
   guideline: "https://github.com/wim-vdw/checkov-kubernetes-tests/blob/main/README.md"

@@ -5,7 +5,7 @@ from checkov.kubernetes.checks.resource.base_spec_check import BaseK8Check
 
 class DatabaseSize(BaseK8Check):
     def __init__(self) -> None:
-        name = "Ensure databaseSizeGb is between 1 and 100 in MyCustomDatabase CRD"
+        name = "Ensure databaseSizeGb is between 1 and 100 in MyCustomDatabase"
         id = "CKV_K8S_CUSTOM_DB_3"
         supported_kind = (
             "MyCustomDatabase",
